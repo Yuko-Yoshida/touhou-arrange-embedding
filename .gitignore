@@ -1,0 +1,4 @@
+features/
+*.wav
+._*
+*.part
